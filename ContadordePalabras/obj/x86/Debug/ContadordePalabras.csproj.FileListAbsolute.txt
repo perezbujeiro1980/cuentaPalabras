@@ -1,0 +1,6 @@
+C:\Users\pc\AppData\Local\Temporary Projects\ContadordePalabras\bin\Debug\ContadordePalabras.exe
+C:\Users\pc\AppData\Local\Temporary Projects\ContadordePalabras\bin\Debug\ContadordePalabras.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\ContadordePalabras\obj\x86\Debug\ContadordePalabras.exe
+C:\Users\pc\AppData\Local\Temporary Projects\ContadordePalabras\obj\x86\Debug\ContadordePalabras.pdb
+C:\proyectos\C#\ContadordePalabras\ContadordePalabras\obj\x86\Debug\ContadordePalabras.exe
+C:\proyectos\C#\ContadordePalabras\ContadordePalabras\obj\x86\Debug\ContadordePalabras.pdb
